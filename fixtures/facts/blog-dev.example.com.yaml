@@ -1,65 +1,65 @@
 --- 
-  macaddress_eth0: "08:00:27:db:0d:06"
-  productname: VirtualBox
-  domain: example.com
-  rubysitedir: /usr/local/lib/site_ruby/1.8
-  selinux: "false"
-  lsbdistdescription: "Ubuntu 12.04.1 LTS"
-  netmask_lo: "255.0.0.0"
-  hardwareisa: x86_64
-  serialnumber: "0"
-  interfaces: "eth0,lo"
-  network_eth0: "10.0.2.0"
+  network_lo: "127.0.0.0"
+  lsbdistcodename: precise
+  physicalprocessorcount: 1
+  hostname: blog-dev
   boardserialnumber: "0"
-  macaddress: "08:00:27:db:0d:06"
-  netmask_eth0: "255.255.255.0"
+  operatingsystem: Ubuntu
   is_virtual: "true"
   kernelmajversion: "3.2"
-  ipaddress_lo: "127.0.0.1"
-  memorysize: "1.96 GB"
+  productname: VirtualBox
   ipaddress_eth0: "10.0.2.15"
-  kernel: Linux
-  network_lo: "127.0.0.0"
-  physicalprocessorcount: 1
-  sshecdsakey: "AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE5Ldzco+hpb96LHf539kejw6mB5wokW1gw6lpakSkP3TFEl6kIw3IQ1GXclRJlxCTgYiQpy1MAKEfevD2dUcxI="
-  kernelversion: "3.2.0"
-  processor0: "Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz"
-  type: Other
+  serialnumber: "0"
   osfamily: Debian
-  processor1: "Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz"
-  lsbdistid: Ubuntu
-  ps: "ps -ef"
-  path: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-  processorcount: "2"
-  timezone: BRT
-  lsbdistcodename: precise
-  uptime_hours: 0
-  swapsize: "2.00 GB"
-  facterversion: "1.6.13"
-  sshdsakey: "AAAAB3NzaC1kc3MAAACBALa3US4YT6Rv2kNnjJrkT7jmQOmQquxCvGOJ96QKSfA5ZRm/+9Wje43unG3oMWKiSYbl+9HTfXKodbUvOyoO6jwez1gNIyWsz3pLe17IyE/vBCn8tVqAvUv2uB7IFCELxdfgjpjB8wJccxaRzwAQBU3xJ0+nD+9ZckLmkVps6lgvAAAAFQCgzhnQZhHbsAKrfMuiNhow9sFkQQAAAIAXD5xVI5kEXhOLi0OU5a+Zb/KEGVsZtha0NNwgQeyyrkbdyjAoOebNYfm4Yt4r/IE5VwVoM60KEmvppm0Erc3stYSTCUZns91eOda2ggX2ZqCWJoKQpcaCJYwu3TSxJdSMMscuGLOhP6aP0ErgkGgPNsCy7Q5BQilb8JAMs0UemwAAAIABO2uWTPdhZf3nuiaZ82QcNnNIhqBkd1tBjTrxCqVD8raNd8NNi2cXrCtCubwd3c5tS6AOcssrlwXcAX9bMQF6lj9u3B1jKU4Zm24WFjv+UDEIEhcqlJLplIlJBlv+ddrmV7zBKXdkkRMzE/ybNVwdN2ytgPdHXcS+nnc2adbTsQ=="
-  boardproductname: VirtualBox
-  virtual: virtualbox
-  fqdn: blog-dev.example.com
-  hostname: blog-dev
-  operatingsystemrelease: "12.04"
-  boardmanufacturer: "Oracle Corporation"
-  memoryfree: "1.86 GB"
-  ipaddress: "10.0.2.15"
-  manufacturer: "innotek GmbH"
-  sshrsakey: "AAAAB3NzaC1yc2EAAAADAQABAAABAQDMcC8PPZjVdNx5bkq49lXuEBqnvejjijARAmi+ErNYGRabk5G4MxtF8aIq/OIIitybgTcVsvROzi7WB/NKaFCFeFOl/bFVH3Y0mAPsOHgeW/DrfcGzXG41Pow9O61oDEeISlao4+xTGyFotAnMtW4ZRX9QdCzesJrNWVCZUY2Z+xwxC7lEBsR3z+IaR1YlQE5ZzI0nwgo4ukhWiIFWg4QmQgPftAIWWvgDNpCiHPEREj1HJKs+KwdYBPDkTyLSnBKISV3/o8FnBXCgVG0zZOt01kzd+NijDRex4677whXGCk6KbxKymTnCL++q2qdjo1NZj1Mu5675SwHCQe273GHf"
-  hardwaremodel: x86_64
-  uptime_seconds: 1856
-  swapfree: "2.00 GB"
-  puppetversion: "3.0.0"
-  uniqueid: "007f0101"
-  kernelrelease: "3.2.0-32-generic"
-  memorytotal: "1.96 GB"
-  rubyversion: "1.8.7"
-  lsbdistrelease: "12.04"
-  netmask: "255.255.255.0"
-  uptime: "0:30 hours"
-  uptime_days: 0
-  operatingsystem: Ubuntu
+  kernelversion: "3.2.0"
+  memorysize: "1.96 GB"
   lsbmajdistrelease: "12"
+  puppetversion: "3.0.0"
+  fqdn: blog-dev.example.com
+  kernelrelease: "3.2.0-32-generic"
+  macaddress: "08:00:27:db:0d:06"
+  netmask_lo: "255.0.0.0"
+  rubyversion: "1.8.7"
+  domain: example.com
+  ps: "ps -ef"
+  swapfree: "2.00 GB"
+  manufacturer: "innotek GmbH"
+  ipaddress_lo: "127.0.0.1"
+  facterversion: "1.6.13"
+  virtual: virtualbox
+  rubysitedir: /usr/local/lib/site_ruby/1.8
+  memorytotal: "1.96 GB"
+  sshrsakey: "AAAAB3NzaC1yc2EAAAADAQABAAABAQDMcC8PPZjVdNx5bkq49lXuEBqnvejjijARAmi+ErNYGRabk5G4MxtF8aIq/OIIitybgTcVsvROzi7WB/NKaFCFeFOl/bFVH3Y0mAPsOHgeW/DrfcGzXG41Pow9O61oDEeISlao4+xTGyFotAnMtW4ZRX9QdCzesJrNWVCZUY2Z+xwxC7lEBsR3z+IaR1YlQE5ZzI0nwgo4ukhWiIFWg4QmQgPftAIWWvgDNpCiHPEREj1HJKs+KwdYBPDkTyLSnBKISV3/o8FnBXCgVG0zZOt01kzd+NijDRex4677whXGCk6KbxKymTnCL++q2qdjo1NZj1Mu5675SwHCQe273GHf"
+  netmask_eth0: "255.255.255.0"
+  swapsize: "2.00 GB"
+  netmask: "255.255.255.0"
+  network_eth0: "10.0.2.0"
+  ipaddress: "10.0.2.15"
+  type: Other
+  macaddress_eth0: "08:00:27:db:0d:06"
+  lsbdistdescription: "Ubuntu 12.04.1 LTS"
+  lsbdistid: Ubuntu
+  processorcount: "2"
+  uniqueid: "007f0101"
+  boardmanufacturer: "Oracle Corporation"
+  sshecdsakey: "AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE5Ldzco+hpb96LHf539kejw6mB5wokW1gw6lpakSkP3TFEl6kIw3IQ1GXclRJlxCTgYiQpy1MAKEfevD2dUcxI="
+  hardwaremodel: x86_64
+  path: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+  timezone: BRT
+  uptime: "0:05 hours"
+  hardwareisa: x86_64
+  uptime_hours: 0
+  kernel: Linux
+  processor0: "Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz"
+  uptime_days: 0
+  processor1: "Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz"
+  boardproductname: VirtualBox
+  uptime_seconds: 308
+  lsbdistrelease: "12.04"
+  interfaces: "eth0,lo"
+  memoryfree: "1.88 GB"
   architecture: amd64
   id: root
+  operatingsystemrelease: "12.04"
+  sshdsakey: "AAAAB3NzaC1kc3MAAACBALa3US4YT6Rv2kNnjJrkT7jmQOmQquxCvGOJ96QKSfA5ZRm/+9Wje43unG3oMWKiSYbl+9HTfXKodbUvOyoO6jwez1gNIyWsz3pLe17IyE/vBCn8tVqAvUv2uB7IFCELxdfgjpjB8wJccxaRzwAQBU3xJ0+nD+9ZckLmkVps6lgvAAAAFQCgzhnQZhHbsAKrfMuiNhow9sFkQQAAAIAXD5xVI5kEXhOLi0OU5a+Zb/KEGVsZtha0NNwgQeyyrkbdyjAoOebNYfm4Yt4r/IE5VwVoM60KEmvppm0Erc3stYSTCUZns91eOda2ggX2ZqCWJoKQpcaCJYwu3TSxJdSMMscuGLOhP6aP0ErgkGgPNsCy7Q5BQilb8JAMs0UemwAAAIABO2uWTPdhZf3nuiaZ82QcNnNIhqBkd1tBjTrxCqVD8raNd8NNi2cXrCtCubwd3c5tS6AOcssrlwXcAX9bMQF6lj9u3B1jKU4Zm24WFjv+UDEIEhcqlJLplIlJBlv+ddrmV7zBKXdkkRMzE/ybNVwdN2ytgPdHXcS+nnc2adbTsQ=="
+  selinux: "false"

@@ -35,6 +35,7 @@ node 'blog-dev.example.com' {
 
   exec { 'clean blog':
     command => '/bin/rm -rf /usr/share/nginx/html/*',
+    creates => '/usr/share/nginx/.git',
     # refreshonly => true
   }
 
